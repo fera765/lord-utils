@@ -1,0 +1,34 @@
+{
+  "name": "lord-units",
+  "version": "0.0.1",
+  "description": "Collection of helpers that makes layouts design easier",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fera765/lord-units.git"
+  },
+  "keywords": [
+    "react-native",
+    "responsive",
+    "units",
+    "rem",
+    "vw",
+    "vh",
+    "media",
+    "query",
+    "queries",
+    "sizes"
+  ],
+  "author": "Mateus <fera7775@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fera765/lord-units/issues"
+  },
+  "homepage": "https://github.com/fera765/lord-units#readme",
+  "peerDependencies": {
+    "react-native": "*"
+  }
+}
